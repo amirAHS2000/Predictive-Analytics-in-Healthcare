@@ -1,0 +1,15 @@
+# Ignore dataset files (optional)
+data/raw/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore logs and checkpoints
+logs/
+checkpoints/
+
+# Ignore environment files
+.env
+venv/
